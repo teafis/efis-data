@@ -1,0 +1,7 @@
+# Ignore srtm3 data files
+
+srtm3/
+*.hgt
+*.hgt.md5
+*.aip
+*.dat
